@@ -98,3 +98,8 @@ body{
 .my_custom_button{
     margin-top: 5px;
 }
+.my_product_image{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
